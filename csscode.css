@@ -1,0 +1,35 @@
+body{
+    background-image: url('./images/bg-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:hsl(257, 40%, 49%);
+    font-family: 'Open sans', sans-serif;
+    color: white;
+}
+.three{
+    width: 40%;
+  float: left;
+}
+.one{
+    width: 50%;
+    float:right;
+    text-align: center;
+    padding-left: 100px;
+}
+.h1{
+    font-family: 'Poppins',sans-serif;
+}
+
+.but{
+    padding: top 5000000000000000px;;
+}
+.social{
+    align-items: baseline;
+    align-content: center;
+}
+button{
+    background-color: white;
+    border-radius: 40px;
+    font-size: 20px;
+    color: hsl(257, 40%, 49%);
+}
